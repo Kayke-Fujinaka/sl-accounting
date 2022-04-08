@@ -1,6 +1,6 @@
 # SL Landing Page
 
-<img src="./sl.gif" width="800px" height="400px" alt="Gif do Teste">
+<img src="./sl.gif" alt="Gif do Teste">
 
 >  The landing page was made with my mentor Rodolfo Mori, which was mentored by Youtube.
 
